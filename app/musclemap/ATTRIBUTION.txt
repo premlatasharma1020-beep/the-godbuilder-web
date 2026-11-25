@@ -1,0 +1,6 @@
+Muscle-map SVG data is adapted from Jsplice/MuscleMap and licensed under the MIT License.
+Source: https://github.com/Jsplice/MuscleMap
+Copyright (c) 2026 Jsplice / MuscleMap contributors.
+The MIT license is included in LICENSE.txt.
+
+The grayscale, covered male/female anatomical base artwork is original artwork generated for The GodBuilder with OpenAI image generation; it was not copied from the MuscleMap repository.
